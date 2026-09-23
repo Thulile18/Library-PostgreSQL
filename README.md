@@ -1,4 +1,7 @@
+<img src="https://socialify.git.ci/Thulile18/Library-PostgreSQL/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Library-PostgreSQL" width="640" height="320" />
+
 Library Management System (PostgreSQL)
+
 A library database built in PostgreSQL to manage books, authors, and patrons — supporting adding, viewing, updating, and deleting records, plus advanced filtering queries.
 Tech Stack
 Database: PostgreSQL
